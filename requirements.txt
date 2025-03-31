@@ -4,3 +4,4 @@ weasyprint
 pydub
 google-genai
 pytz
+ffprobe
