@@ -1,0 +1,6 @@
+streamlit
+markdown2
+weasyprint
+pydub
+google-genai
+pytz
